@@ -10,3 +10,4 @@
 * [Netlify deploy previews](https://www.netlify.com/blog/2016/07/20/introducing-deploy-previews-in-netlify/)
 * [ZEIT Now](https://zeit.co/docs/v2/advanced/now-for-github)
 
+wellcome to JS party a weekly celebration of java script and the web  it is cofrence season and we love packing up our mics  and join in on the fun cabal flew all things open  directly to jamstag conf in san fransisco to chat Bill hawksworth and others lets do it here is cabal taking it to 11 hey hello JS people it is me cabal and i am here at jamstag canf sf i am here with Bill hawksworth who is a  
